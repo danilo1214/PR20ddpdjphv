@@ -1,0 +1,2 @@
+Information on the number of people entering treatment for a drug problem provides insight into general trends in problem drug use and also offers a perspective on the organisation and uptake of treatment facilities. ‘Treatment demand data’ come from each country with varying degrees of national coverage, principally from outpatient and inpatient centres’ treatment records. Methods and definitions for the data on this page can be found on the Treatment demand methods and definitions page.
+
