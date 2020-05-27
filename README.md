@@ -10,6 +10,8 @@ The most alarming issue, regarding drugs, is the overdose deaths. In the followi
 
 ![](overdoses.png) 
 
+## Deaths per 1000 people
+
 On the first chart, we can see that a large majority of overdose deaths are males, and that the three leaders of overdose deaths in 1995-2017 are Germany, UK, and Italy.  On the second graph we can see the underage overdoses - which seem to be fluctuating, with a peak of 2006-2008, and a rapid decrease until 2017 - almost by half since the peak, which is very positive.  
 
 ![Deaths per 1000 people in Europe](deathsPer1kPop.png)
@@ -18,4 +20,10 @@ On the third graph we can see that if we look at the relative deaths(per populat
 
 ## Drug popularity
 
-![ha](pervalence.png)
+![](pervalence.png)
+
+We can see that the most popular drug always seems to be cannabis - obviously because of it's legality and availability throughout most of  Europe. However it seems to be decreasing from 2010-2013, and it slowly rises from 2013-2016, but never reaching its' initial dominance in 2010. This is a very worrying trend, since the other drugs listed(Cocaine, Ecstasy, LSD) are much more dangerous than Cannabis.
+
+## Users and suppliers
+
+![](UsersSuppliers.png)
