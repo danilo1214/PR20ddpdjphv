@@ -34,7 +34,7 @@ It is interesting, because we can see almost a symmetrical graph for the users a
 ![](ECSTASYLINREG.png)
 ![](RFCANNABIS.png)
 
-The most accurate results are in Germany, which is in the Schengen zone, and bordering 9 countries, so there is a lot of opportunity for drugs to be importer in Europe. The predictors of heroin and ecstasy seem to be more accurate than the ones for cannabis and cocaine(results were so poor I need not show them). If we go back to the Users v suppliers graph, we can obviously see that for cannabis and cocaine the suppliers plots don't seem to be that correlated with the user plots.
+For all models, it seems that the further away from the central Europe we go, the worse the model - so countries that do not border many countries in Europe have weak models - for example Greece, this indicates that there is not much of a supply chain going on there.The most accurate results are in Germany, which is in the Schengen zone, and bordering 9 countries, so there is a lot of opportunity for drugs to be importer in Europe. The predictors of heroin and ecstasy seem to be more accurate than the ones for cannabis and cocaine(results were so poor I need not show them). If we go back to the Users v suppliers graph, we can obviously see that for cannabis and cocaine the suppliers plots don't seem to be that correlated with the user plots.
 
 ## Users and deaths
 
@@ -45,4 +45,19 @@ It is fairly logical that based on the users we can predict the deaths that will
 Random forest seems to perform best - ideally all of the points should be as close to the diagonal as possible(actual = predicted). This is most fulfilled in Random forest.
 
 ## Drug treatment
+
+First we will look at some basic statistics regarding people that go to seek treatment:
+
+![](OSTstatistics.png)
+
+We can see that most people that undergo treatment are 30-34 years old, have completed only secondary education, consume drugs daily, have stable accomodation, are unemployed, are refered by family and friends, and live with their family. Whatever this means, is up for the reader to decide, but it does not seem optimal.
+
+![](OSTandAvail.png)
+
+On the upper image we can see the OST(opioid substitution treatment trends in Europe). As well as the hierarchical clustering of countries based on the availability of an OST drug(there are 8 drugs, that can be available in 6 different ways - so 24 total variables). We can see that France, Austria, Luxembourgh, and Ireland seem to attract the most people into their OST treatment programmes, France is also in the same cluster as Austria and Luxembourgh in the dendogram (the red dendogram seems to yield the best OST results). Countries with low OST seem to be in the green cluster on the dendogram,  and it is bad for countries with a high amount of overdoses(like Sweden and Estonia), to be on the same cluster.
+
+![TreatmentVDeaths.png]
+
+
+
 
