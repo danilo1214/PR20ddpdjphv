@@ -41,3 +41,8 @@ The most accurate results are in Germany, which is in the Schengen zone, and bor
 It is fairly logical that based on the users we can predict the deaths that will occur, so we built a regression model that would look at the users of each drug, and predict deaths based on it. This is the result: 
 
 ![](PredvsActUsersDeaths.png)
+
+Random forest seems to perform best - ideally all of the points should be as close to the diagonal as possible(actual = predicted). This is most fulfilled in Random forest.
+
+## Drug treatment
+
