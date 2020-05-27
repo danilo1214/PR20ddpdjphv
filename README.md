@@ -33,3 +33,9 @@ It is interesting, because we can see almost a symmetrical graph for the users a
 ![](RFHEROIN.png)
 ![](ECSTASYLINREG.png)
 ![](RFCANNABIS.png)
+
+## Users and deaths
+
+It is fairly logical that based on the users we can predict the deaths that will occur, so we built a regression model that would look at the users of each drug, and predict deaths based on it. This is the result: 
+
+![](PredvsActUsersDeaths.png)
