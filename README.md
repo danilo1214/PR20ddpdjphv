@@ -34,6 +34,8 @@ It is interesting, because we can see almost a symmetrical graph for the users a
 ![](ECSTASYLINREG.png)
 ![](RFCANNABIS.png)
 
+The most accurate results are in Germany, which is in the Schengen zone, and bordering 9 countries, so there is a lot of opportunity for drugs to be importer in Europe. The predictors of heroin and ecstasy seem to be more accurate than the ones for cannabis and cocaine(results were so poor I need not show them). If we go back to the Users v suppliers graph, we can obviously see that for cannabis and cocaine the suppliers plots don't seem to be that correlated with the user plots.
+
 ## Users and deaths
 
 It is fairly logical that based on the users we can predict the deaths that will occur, so we built a regression model that would look at the users of each drug, and predict deaths based on it. This is the result: 
