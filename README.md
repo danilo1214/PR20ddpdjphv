@@ -27,3 +27,9 @@ We can see that the most popular drug always seems to be cannabis - obviously be
 ## Users and suppliers
 
 ![](UsersSuppliers.png)
+
+It is interesting, because we can see almost a symmetrical graph for the users and suppliers, for all of these drugs. So if countries want to reduce the users, they need to find the illegal suppliers. Furthermore, we have constructed regression models for each country to predict the users of a drug, based on the suppliers of it in the country, and other countries. So that we can detect supply chains in Europe.
+
+![](RFHEROIN.png)
+![](ECSTASYLINREG.png)
+![](RFCANNABIS.png)
