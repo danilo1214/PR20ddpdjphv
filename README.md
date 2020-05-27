@@ -56,7 +56,14 @@ We can see that most people that undergo treatment are 30-34 years old, have com
 
 On the upper image we can see the OST(opioid substitution treatment trends in Europe). As well as the hierarchical clustering of countries based on the availability of an OST drug(there are 8 drugs, that can be available in 6 different ways - so 24 total variables). We can see that France, Austria, Luxembourgh, and Ireland seem to attract the most people into their OST treatment programmes, France is also in the same cluster as Austria and Luxembourgh in the dendogram (the red dendogram seems to yield the best OST results). Countries with low OST seem to be in the green cluster on the dendogram,  and it is bad for countries with a high amount of overdoses(like Sweden and Estonia), to be on the same cluster.
 
-![TreatmentVDeaths.png]
+## Drug treatment vs deaths
+
+![](TreatmentVDeaths.png) 
+
+We can see that based on people that undergo treatment for different drugs(such as heroin, cannabis, cocaine etc..), we can quite accurately predict the deaths, therefore if the country wants to limit its' deaths it should concentrate of providing more opioid substitution treatmend to its' people
+
+
+
 
 
 
