@@ -60,7 +60,7 @@ On the upper image we can see the OST(opioid substitution treatment trends in Eu
 
 ![](TreatmentVDeaths.png) 
 
-We can see that based on people that undergo treatment for different drugs(such as heroin, cannabis, cocaine etc..), we can quite accurately predict the deaths, therefore if the country wants to limit its' deaths it should concentrate of providing more opioid substitution treatmend to its' people
+We can see that based on people that undergo treatment for different drugs(such as heroin, cannabis, cocaine etc..), we can quite accurately predict the deaths, therefore if the country wants to limit its' deaths it should concentrate of providing more opioid substitution treatmend to its' people. Random Forest seems to work best, but the other regressors are useful as well.
 
 
 
